@@ -1,0 +1,48 @@
+/*.profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .profile-card {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .profile-card h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-card p {
+    margin: 10px 0;
+  }
+  
+  .profile-card p strong {
+    display: inline-block;
+    width: 150px;
+  }
+  */
+
+
+  .e{
+    text-align: center;
+}
+
+.f{
+    margin-left: 530px;
+}
+
+.g{
+    background-image: url('https://img.freepik.com/free-photo/top-view-eggs-with-bell-peppers-with-tomato-white-background-with-copy-space_141793-14476.jpg?size=626&ext=jpg&ga=GA1.1.2137972851.1701188252&semt=ais');
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    overflow: hidden;
+}

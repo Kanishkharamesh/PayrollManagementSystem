@@ -1,0 +1,55 @@
+/* Start.css */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .start-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f2f5;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .start-container h1 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  .button-container {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .access-button {
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .admin-button {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .user-button {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .admin-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .user-button:hover {
+    background-color: #218838;
+  }
+  
